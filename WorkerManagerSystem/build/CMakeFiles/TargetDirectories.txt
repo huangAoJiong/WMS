@@ -1,0 +1,3 @@
+/home/admin/hma/WorkerManagerSystem/build/CMakeFiles/rebuild_cache.dir
+/home/admin/hma/WorkerManagerSystem/build/CMakeFiles/edit_cache.dir
+/home/admin/hma/WorkerManagerSystem/build/CMakeFiles/main2.dir

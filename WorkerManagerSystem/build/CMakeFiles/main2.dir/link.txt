@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/main2.dir/main.cpp.o CMakeFiles/main2.dir/manager.cpp.o CMakeFiles/main2.dir/workermanage.cpp.o CMakeFiles/main2.dir/employee.cpp.o -o main2 
